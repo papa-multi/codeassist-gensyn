@@ -68,7 +68,7 @@ run
 uv run run.py
 ```
 
-# after this if you run on vps you need run ssh on local pc 
+# if you run on vps you need run ssh on local pc 
 
 ```
 ssh -N -L 3000:localhost:3000 -L 8000:localhost:8000 -L 8008:localhost:8008 root@ipvps
