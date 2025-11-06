@@ -68,11 +68,14 @@ run
 uv run run.py
 ```
 
-# if you run on vps you need run ssh on local pc 
+# If you run it on a VPS you need to run SSH from your local PC
 
 ```
 ssh -N -L 3000:localhost:3000 -L 8000:localhost:8000 -L 8008:localhost:8008 root@ipvps
 ```
+
+After solving the problem, go back to the terminal, press Ctrl+C, and wait for it to finish pushing the data
+
 
 <img width="1280" height="554" alt="image" src="https://github.com/user-attachments/assets/3091563c-4a77-4ce6-b95d-41189f2e1da5" />
 
