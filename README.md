@@ -74,4 +74,7 @@ uv run run.py
 ssh -N -L 3000:localhost:3000 -L 8000:localhost:8000 -L 8008:localhost:8008 root@ipvps
 ```
 
+<img width="1280" height="554" alt="image" src="https://github.com/user-attachments/assets/3091563c-4a77-4ce6-b95d-41189f2e1da5" />
+
+
 
